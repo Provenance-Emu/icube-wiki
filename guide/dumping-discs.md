@@ -58,7 +58,7 @@ Avoid scrubbing during conversion. RVZ already compresses unused space well, so 
 
 ## Check the dump
 
-In Dolphin, right-click the game, choose **Properties**, and open the **Verify** tab. Tick CRC32, MD5, and SHA-1 and run it. If Dolphin has the `redump.org` data, it reports whether your hashes match a known disc. A mismatch on a disc you dumped yourself usually means a bad read. Dump it again before assuming the disc is a variant.
+In Dolphin, right-click the game, choose **Properties**, and open the **Verify** tab. Tick CRC32, MD5, and SHA-1 and run it. If Dolphin has the `redump.org` data, it tells you if your hashes match a known disc. A mismatch can mean a bad read, so dump the disc again before assuming it's a different release.
 
 ## Get it onto iCube
 
