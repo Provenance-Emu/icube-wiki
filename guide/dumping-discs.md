@@ -62,7 +62,7 @@ In Dolphin, right-click the game, choose **Properties**, and open the **Verify**
 
 ## Get it onto iCube
 
-Copy the `.iso` or `.rvz` to your device over Wi-Fi with **Wi-Fi / Web Import** (under Help in this wiki), or use **Import Game** in the library's **Import** menu on iPhone and iPad.
+Copy the `.iso` or `.rvz` to your device with **Wi-Fi / Web Import** (under Help in this wiki), or use **Import Game** in the library's **Import** menu on iPhone and iPad.
 
 ## Other ways to dump
 
