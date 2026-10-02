@@ -66,6 +66,6 @@ Copy the `.iso` or `.rvz` to your device with **Wi-Fi / Web Import** (under Help
 
 ## Other ways to dump
 
-You can also read Wii and GameCube discs in a PC drive if the drive has patched firmware, but the compatible drives are few and dual-layer discs often fail. CleanRip is the more reliable route. The [Provenance wiki's ripping guide](https://wiki.provenance-emu.com/installation-and-usage/roms/ripping-roms) covers the drive method and other systems.
+You can also read Wii and GameCube discs in a PC drive if the drive has patched firmware, but the compatible drives are few and dual-layer discs may fail. CleanRip is the more reliable route. The [Provenance wiki's ripping guide](https://wiki.provenance-emu.com/installation-and-usage/roms/ripping-roms) covers the drive method and other systems.
 
 For WiiWare, Virtual Console, and other channel titles, see **WiiWare, Virtual Console & Channels**.
